@@ -1,5 +1,6 @@
 [![voiciphil's github stats](https://github-readme-stats.vercel.app/api?username=voiciphil)](https://github.com/voiciphil/github-readme-stats)  
 <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=ssphil21e&theme=warm"/>
+<a href="https://opgc.me/#/users/voiciphil" target="_blank"><img src="https://api.opgc.me/githubs/users/voiciphil/tag/?theme=basic" /></a>
 
 <!--
 **voiciphil/voiciphil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
